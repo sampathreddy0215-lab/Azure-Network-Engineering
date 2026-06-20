@@ -1,2 +1,14 @@
-# Azure-Network-Engineering
-Azure networking architecture, ExpressRoute, Virtual WAN, Virtual Networks, Network Security, and hybrid cloud connectivity documentation.
+## Documents
+
+- Azure ExpressRoute Design Guide
+- Azure Virtual WAN vs Hub-and-Spoke Architecture
+
+## Technologies Covered
+
+- Azure Virtual WAN
+- Azure ExpressRoute
+- Azure Virtual Network Gateway
+- Azure Firewall
+- Azure Monitor
+- BGP
+- Hybrid Cloud Networking
